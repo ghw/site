@@ -96,7 +96,7 @@ deploy:
 `host` | 远程主机的地址 |
 `user` | 使用者名称 |
 `root` | 远程主机的根目录 |
-`port` | 端口 | 22
+`port` | 端口 | 21
 `delete` | 删除远程主机上的旧文件 | true
 `verbose` | 显示调试信息 | true
 `ignore_errors` | 忽略错误 | false
